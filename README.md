@@ -10,4 +10,4 @@ On GitHub I have repos for the university and for personal use.
 
 ### Personal Projects
 
-- [ProjectCollection](https://github.com/flixInside/ProjectCollection) is a Repository that stores a bunch of different smaller projects. 
+- [ProjectCollection](https://github.com/flixInside/ProjectCollection) is a repository that stores a bunch of different smaller projects. 
