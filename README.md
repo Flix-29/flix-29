@@ -6,8 +6,8 @@ On GitHub I have repos for the university and for personal use.
 
 ### University Projects
 
-- [Java-Uni](https://github.com/flixInside/Java-Uni) is a Project that showcases some concepts and methods of the programming language [Java](https://www.java.com/).
+- [Java-Uni](https://github.com/flixInside/Java-Uni) is a project that showcases some concepts and methods of the programming language [Java](https://www.java.com/).
 
 ### Personal Projects
 
-- 
+- [ProjectCollection](https://github.com/flixInside/ProjectCollection) is a Repository that stores a bunch of different smaller projects. 
