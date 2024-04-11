@@ -10,5 +10,4 @@ On GitHub I have repos for the university and for personal use.
 
 ### Personal Projects
 
-- [ProjectCollection](https://github.com/flixInside/ProjectCollection) is a repository that stores a bunch of different smaller projects.
 - [BesserTanken](https://github.com/flixInside/BesserTanken) is a repository which provides information about current gas prices and other useful information.
