@@ -1,4 +1,4 @@
-# flixInside
+# flix29
 
 Hi, I am Felix. I am doing a dual study program in computer science at the IU International University in Düsseldorf. I work as a backend developer at the company Verband der Vereine Creditreform. 
 
