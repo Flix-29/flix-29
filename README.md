@@ -1,13 +1,25 @@
-# flix29
+<h1 align='center'>Hey, I'm Felix 👋</h1>
+<h3 align='center'>A backend developer from Germany</h3> <br>
 
-Hi, I am Felix. I am doing a dual study program in computer science at the IU International University in Düsseldorf. I work as a backend developer at the company Verband der Vereine Creditreform. 
+- 🎓 I am currently in a dual study program in computer science at the **IU - International University** in Düsseldorf. <br>
+- 💼 I work as a backend developer at the company **Verband der Vereine Creditreform**. <br><br>
 
-On GitHub I have repos for the university and for personal use. 
+<h3>Besser Tanken</h3>
 
-### University Projects
+- I'm currently working on the <a href='https://github.com/flixInside/BesserTanken'>BesserTanken</a> repository. <br><br>
 
-- [Java-Uni](https://github.com/flixInside/Java-Uni) is a project that showcases some concepts and methods of the programming language [Java](https://www.java.com/).
+<h3>Languages and Tools</h3>
 
-### Personal Projects
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
 
-- [BesserTanken](https://github.com/flixInside/BesserTanken) is a repository which provides information about current gas prices and other useful information.
+<h3>GitHub Stats</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fIix29&show_icons=true&theme=dark&locale=en"/></p>
