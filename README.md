@@ -1,8 +1,8 @@
 <h1 align='center'>Hey, I'm Felix 👋</h1>
 <h3 align='center'>A backend developer from Germany</h3> <br>
 
-- 🎓 I am currently in a dual study program in computer science at the **IU - International University** in Düsseldorf. <br>
-- 💼 I work as a backend developer at the company **Verband der Vereine Creditreform**. <br><br>
+- 🎓 I am currently studying in a dual study program in computer science at the **IU - International University** in Düsseldorf. <br>
+- 💼 I work as a backend developer at **Verband der Vereine Creditreform**. <br><br>
 
 <h3>Besser Tanken</h3>
 
