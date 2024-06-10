@@ -5,10 +5,10 @@
 - 💼 I work as a backend developer at **Verband der Vereine Creditreform**. <br><br>
 
 <h3>Besser Tanken</h3>
-- I'm currently working on the <a href='https://github.com/flixInside/BesserTanken'>BesserTanken</a> repository. <br><br>
+<li> I'm currently working on the <a href='https://github.com/flixInside/BesserTanken'>BesserTanken</a> repository.</li> <br><br>
 
 <h3>Learning</h3>
-- I'm currently learning <a href='https://www.php.net'>PHP</a> with the <a href='https://symfony.com'>Symfony</a> framework and <a href ='https://getbootstrap.com'>Bootstrap</a>. <br><br>
+<li> I'm currently learning <a href='https://www.php.net'>PHP</a> with the <a href='https://symfony.com'>Symfony</a> framework and <a href ='https://getbootstrap.com'>Bootstrap</a>.</li> <br><br>
 
 <h3>Languages and Tools</h3>
 
