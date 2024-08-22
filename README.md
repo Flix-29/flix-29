@@ -10,6 +10,11 @@
 <h3>Learning</h3>
 <li> I'm currently learning <a href='https://www.typescriptlang.org'>TypeScript</a> with the <a href='https://vuejs.org'>Vue.js</a> framework and <a href ='https://getbootstrap.com'>Bootstrap</a>.</li> <br><br>
 
+<h3>Languages and Tools I want to learn</h3>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"/> Python</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/> Swift</li>
+<br>
+
 <h3>Languages and Tools</h3>
 
 <p>
