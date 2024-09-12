@@ -37,7 +37,7 @@
 
 <p>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fIix29&locale=en&layout=donut&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flix-29&locale=en&layout=donut&theme=dark"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=fIix29&show_icons=true&theme=dark&locale=en"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=flix-29&show_icons=true&theme=dark&locale=en"/>
 </p>
