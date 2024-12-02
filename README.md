@@ -8,10 +8,9 @@
 <li> I'm currently working on the <a href='https://github.com/flixInside/BesserTanken'>BesserTanken</a> repository.</li> <br><br>
 
 <h3>Learning</h3>
-<li> I'm currently learning <a href='https://www.typescriptlang.org'>TypeScript</a> with the <a href='https://vuejs.org'>Vue.js</a> framework and <a href ='https://getbootstrap.com'>Bootstrap</a>.</li> <br><br>
+<li> I'm currently learning <a href="https://www.python.org">Python</a> <br><br>
 
 <h3>Languages and Tools I want to learn</h3>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"/> Python</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/> Swift</li>
 <br>
 
@@ -26,6 +25,8 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></code>  
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="40" height="40"/></code>
