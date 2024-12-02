@@ -12,6 +12,7 @@
 
 <h3>Languages and Tools I want to learn</h3>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/> Swift</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"/> React</li>
 <br>
 
 <h3>Languages and Tools</h3>
