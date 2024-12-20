@@ -5,7 +5,7 @@
 - 💼 I work as a backend developer at **Verband der Vereine Creditreform**. <br><br>
 
 <h3>Besser Tanken</h3>
-<li> I'm currently working on the <a href='https://github.com/flixInside/BesserTanken'>BesserTanken</a> repository.</li> <br><br>
+<li> I'm currently working on the <a href='https://github.com/flix-29/NotionApiClient'>NotionApiClient</a> repository.</li> <br><br>
 
 <h3>Learning</h3>
 <li> I'm currently learning <a href="https://www.python.org">Python</a> <br><br>
