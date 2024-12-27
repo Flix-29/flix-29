@@ -4,7 +4,7 @@
 - 🎓 I am currently studying in a dual study program in computer science at the **IU - International University** in Düsseldorf. <br>
 - 💼 I work as a backend developer at **Verband der Vereine Creditreform**. <br><br>
 
-<h3>Besser Tanken</h3>
+<h3>NotionApiClient</h3>
 <li> I'm currently working on the <a href='https://github.com/flix-29/NotionApiClient'>NotionApiClient</a> repository.</li> <br><br>
 
 <h3>Learning</h3>
