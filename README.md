@@ -4,6 +4,8 @@
 - 🎓 I am currently studying in a dual study program in computer science at the **IU - International University** in Düsseldorf. <br>
 - 💼 I work as a backend developer at **Verband der Vereine Creditreform**. <br><br>
 
+For more Information visit my portfolio site at [flix29.de](https://flix29.de/)
+
 <h3>NotionApiClient</h3>
 <li> I'm currently working on the <a href='https://github.com/flix-29/NotionApiClient'>NotionApiClient</a> and <a href='https://github.com/flix-29/MovieTinder'>MovieTinder</a> repository.</li> <br><br>
 
