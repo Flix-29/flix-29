@@ -13,8 +13,8 @@ For more Information visit my portfolio site at [flix29.de](https://flix29.de/)
 <li> I'm currently learning <a href="https://www.python.org">Python</a> and <a href="https://react.dev">React</a> <br><br>
 
 <h3>Languages and Tools I want to learn</h3>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="20" height="20"/> Go</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/> Swift</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"/> React</li>
 <br>
 
 <h3>Languages and Tools</h3>
