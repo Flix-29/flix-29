@@ -37,6 +37,5 @@ For more Information visit my portfolio site at [flix29.de](https://flix29.de/)
 <p>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flix-29&locale=en&layout=donut&theme=dark"/>
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=flix-29&show_icons=true&theme=dark&locale=en"/>
 </p>
