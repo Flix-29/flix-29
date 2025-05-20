@@ -6,12 +6,6 @@
 
 For more Information visit my portfolio site at [flix29.de](https://flix29.de/)
 
-<h3>NotionApiClient</h3>
-<li> I'm currently working on the <a href='https://github.com/flix-29/NotionApiClient'>NotionApiClient</a> and <a href='https://github.com/flix-29/MovieTinder'>MovieTinder</a> repository.</li> <br><br>
-
-<h3>Learning</h3>
-<li> I'm currently learning <a href="https://www.python.org">Python</a> and <a href="https://react.dev">React</a> <br><br>
-
 <h3>Languages and Tools I want to learn</h3>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="20" height="20"/> Go</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20" height="20"/> Swift</li>
