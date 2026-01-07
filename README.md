@@ -8,8 +8,3 @@
 <br>
 
 <h3>GitHub Stats</h3>
-
-<p>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flix-29&locale=en&layout=donut&theme=dark"/>
-</p>
