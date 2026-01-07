@@ -6,5 +6,3 @@
 
 <b>For more Information visit my portfolio site at: [flix29.de](https://flix29.de/)</b>
 <br>
-
-<h3>GitHub Stats</h3>
